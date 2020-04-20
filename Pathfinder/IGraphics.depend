@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1563612932 source:c:\users\user\desktop\igraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+
+1563087260 c:\users\user\desktop\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1572065488 source:e:\igraphics\pathfinder\main\pathfinder.cpp
+	"iGraphics.h"
+	"gl.h"
+	<bits/stdc++.h>
+
+1563087260 e:\igraphics\pathfinder\main\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 e:\igraphics\pathfinder\main\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 e:\igraphics\pathfinder\main\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 e:\igraphics\pathfinder\main\opengl\include\gl.h
+
+1572065488 source:d:\tamim\projects\igraphics\pathfinder\main\pathfinder.cpp
+	"iGraphics.h"
+	"gl.h"
+	<bits/stdc++.h>
+
+1563087260 d:\tamim\projects\igraphics\pathfinder\main\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 d:\tamim\projects\igraphics\pathfinder\main\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\tamim\projects\igraphics\pathfinder\main\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\tamim\projects\igraphics\pathfinder\main\opengl\include\gl.h
+
